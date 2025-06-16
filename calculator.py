@@ -21,12 +21,17 @@ def divide(x, y):
 def power(x, y):
     return x ** y # ** is the exponentiation operator in Python
 
+
+print("Welcome to the Simple Python Calculator!")
+print("---------------------------------------")
+print("Press q or Q to exit")
 print("Please select an operation:")
 print("1. Add (+)")
 print("2. Subtract (-)")
 print("3. Multiply (*)")
 print("4. Divide (/)")
-print("5. Power (^)") # NEW LINE
+print("5. Power (^)")
+# NEW LINE
 print("---------------------------------------")
 
 while True:
