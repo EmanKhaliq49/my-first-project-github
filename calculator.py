@@ -17,6 +17,10 @@ def divide(x, y):
     else:
         return x / y
 
+# Function for power (x to the power of y)
+def power(x, y):
+    return x ** y # ** is the exponentiation operator in Python
+
 print("Welcome to the Simple Python Calculator!")
 print("---------------------------------------")
 print("Please select an operation:")
