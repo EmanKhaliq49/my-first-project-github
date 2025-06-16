@@ -62,4 +62,7 @@ while True:
     else:
         print("Invalid Input. Please enter a valid choice (1/2/3/4).")
 
+print("\nThank you for using the calculator!")
+print("Exiting program.")
+print("---------------------------------------") # Add this line for emphasis
 print("Calculator program ended.")
