@@ -17,11 +17,14 @@ def divide(x, y):
     else:
         return x / y
 
-print("Select operation:")
-print("1. Add")
-print("2. Subtract")
-print("3. Multiply")
-print("4. Divide")
+print("Welcome to the Simple Python Calculator!")
+print("---------------------------------------")
+print("Please select an operation:")
+print("1. Add (+)")
+print("2. Subtract (-)")
+print("3. Multiply (*)")
+print("4. Divide (/)")
+print("---------------------------------------")
 
 while True:
     # Take input from the user
